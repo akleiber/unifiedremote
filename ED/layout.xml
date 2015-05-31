@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<row>
+		<text id="updateSystem1" ondone="updateSystem1" weight="1"/>
+	</row>
+	<row>
+		<button id="echoSystem1" text="System1" ontap="echoSystem1" weight="2"/>
+	</row>
+	<row>
+		<text id="updateSystem2" ondone="updateSystem2" weight="1"/>
+	</row>
+	<row>
+		<button id="echoSystem2" text="System2" ontap="echoSystem2" weight="2"/>
+	</row>
+</layout>
